@@ -1,5 +1,3 @@
-# klasen.github.io
-<!DOCTYPE html>
 <html>
 <body>
 <style>
